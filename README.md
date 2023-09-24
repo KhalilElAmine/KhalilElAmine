@@ -1,4 +1,4 @@
-# Welcome to My Wizard's Code Chamber ⚡✨
+# Welcome to My Chamber Of Secrets ⚡✨
 
 ![AI Engineer](https://img.shields.io/badge/AI%20Engineer-Future%20Wizard-brightgreen)
 
