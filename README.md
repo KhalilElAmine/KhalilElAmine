@@ -32,6 +32,6 @@ Let's share our magical knowledge:
 
 In the enchanting realm of AI, I envision a world where spells of artificial intelligence enhance our lives and protect our magical creatures. Together, we'll unravel the mysteries of the AI universe and cast a brighter future! 🌌✨
 
-<img src="https://media.giphy.com/media/gbErpwcLlizvi/giphy.gif" width="600" height="450">
+<img src="https://media.giphy.com/media/gbErpwcLlizvi/giphy.gif" width="400" height="250">
 
 
