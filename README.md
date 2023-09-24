@@ -4,7 +4,7 @@
 
 🌟 Step into the magical world of AI with me, where code and enchantment coexist! 🪄🔮
 
-I'm [Your Wizard Name], a passionate AI wizard on a quest to unlock the secrets of artificial intelligence. 📚🌟
+I'm Khalil, a passionate AI wizard on a quest to unlock the secrets of artificial intelligence. 📚🌟
 
 ## 👨‍💻 About My Wizarding Self
 
@@ -24,13 +24,13 @@ I'm [Your Wizard Name], a passionate AI wizard on a quest to unlock the secrets 
 
 Let's share our magical knowledge:
 
-- 📫 Owl Post: [your.email@example.com](mailto:your.email@example.com)
-- 💼 Ministry of Magic Profile: [Your Name](https://www.linkedin.com/in/yourname/)
-- 🧹 Broomstick Adventures: [YourProfileName](https://github.com/YourProfileName)
+- 📫 Owl Post: [khalil.elamine@insat.ucar.tn](mailto:khalil.elamine@insat.ucar.tn)
+- 💼 Ministry of Magic Profile: [Khalil El Amine](https://www.linkedin.com/in/khalil-el-amine/)
+
 
 ## 🌌 Wizarding Vision
 
 In the enchanting realm of AI, I envision a world where spells of artificial intelligence enhance our lives and protect our magical creatures. Together, we'll unravel the mysteries of the AI universe and cast a brighter future! 🌌✨
 
-![Wizard](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Wizard](https://media.giphy.com/media/gbErpwcLlizvi/giphy.gif)
 
