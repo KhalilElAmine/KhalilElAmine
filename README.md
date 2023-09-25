@@ -1,4 +1,4 @@
-# Hi there, I'm [Khalil]! 👋
+# Hi there, I'm Khalil! 👋
 
 I'm passionate about Artificial Intelligence and its endless possibilities to transform the world. Aspiring to be at the forefront of this exciting field, I'm constantly learning and exploring new AI techniques to tackle real-world challenges.
 
@@ -24,12 +24,12 @@ I'm passionate about Artificial Intelligence and its endless possibilities to tr
 
 ## 📚 Education
 
-- [Bachelor Degree] in [Industrial Computing and Automation] from [INSAT] (2024)
-- Relevant coursework: [Machine Learning], [Deep learning], [Big Data], [Deep Learning]
+- Bachelor Degree in Industrial Computing and Automation from INSAT (2024)
+- Relevant coursework: Machine Learning, Deep learning, Big Data, Robotics.
 
 
 ## 🤝 Let's Connect!
 
-I'm always excited to connect with fellow AI enthusiasts, researchers, and professionals. Feel free to reach out through email or connect with me on  [LinkedIn](https://www.linkedin.com/in/khalil-el-amine/) Let's collaborate, share ideas, and push the boundaries of AI together! 🤖
+I'm always excited to connect with fellow AI enthusiasts, researchers, and professionals. Feel free to reach out through email or connect with me on  LinkedIn(https://www.linkedin.com/in/khalil-el-amine/) Let's collaborate, share ideas, and push the boundaries of AI together! 🤖
 
 
