@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Khalil]! 👋
 
 I'm passionate about Artificial Intelligence and its endless possibilities to transform the world. Aspiring to be at the forefront of this exciting field, I'm constantly learning and exploring new AI techniques to tackle real-world challenges.
 
